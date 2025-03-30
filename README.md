@@ -54,17 +54,5 @@ Follow the prompts to enter health parameters. The system will output the comput
 4️⃣ **Risk level is computed** (Low, Medium, High)  
 5️⃣ **Formatted output** is displayed to the user  
 
-## 🎯 Future Enhancements
-🔹 Web-based UI for easier input and visualization  
-🔹 Integration with **Machine Learning models** for hybrid decision-making  
-🔹 Database storage for patient history tracking  
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit pull requests and improve this system.
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-💡 **"Prevention is better than cure. Detect risks early!"**
 
