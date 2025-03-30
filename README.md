@@ -1,6 +1,5 @@
 # 🫀 Heart Disease Risk Assessment using Fuzzy Logic
 
-![Fuzzy Logic](https://upload.wikimedia.org/wikipedia/commons/6/6a/Fuzzy_logic_temperature.png)  
 
 ## 📌 Overview
 This project implements a **Fuzzy Logic System** to assess the risk of heart disease based on various health parameters. Using **SciKit-Fuzzy**, the system takes user inputs such as age, cholesterol levels, and ECG results, and predicts the likelihood of heart disease.
